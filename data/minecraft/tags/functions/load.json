@@ -1,0 +1,6 @@
+{
+  "values": [
+    "malloc_elytra:load",
+    "malloc_elytra:tick"
+  ]
+}
